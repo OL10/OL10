@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Osheen
 
-<!--
-**OL10/OL10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ MTech (Mathematics & Computing) @ NIT Jalandhar  
+ Aspiring Data Scientist  
+ Interests: Data Science, Machine Learning, DSA  
 
-Here are some ideas to get you started:
+ Tech Stack
+- Python, C++, SQL, Java(Basic)  
+- Machine Learning (Scikit-learn, Pandas, NumPy, TensorFlow)  
+- Tools: Power BI, Excel, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Learning
+- Data Structures & Algorithms 
+- End-to-End ML Projects  
+
+ Connect with me
+ [Email](mailto:osheenlanger@example.com)
